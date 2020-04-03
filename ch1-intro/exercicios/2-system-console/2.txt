@@ -1,5 +1,0 @@
-2) Find the description of the System.Console class in the standard .NET
-API documentation (MSDN Library).
-
-Representa os fluxos de entrada, saída e erro padrão para aplicativos de console. 
-Esta classe não pode ser herdada.

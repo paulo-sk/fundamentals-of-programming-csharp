@@ -1,5 +1,0 @@
-3)Find the description of the System.Console.WriteLine() method and its
-different possible parameters in the MSDN Library.
-
-Grava os dados especificados, seguido pelo terminador de linha atual para o fluxo de saída padrão.
-recebe quase todos os tipos de dados como argumento
